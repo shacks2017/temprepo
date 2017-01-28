@@ -1,5 +1,12 @@
 READ ME
 
+
+
+
+
+
+
+
 Yo
 Directory: (personal use)
 cd documents/data/university/subjects/fall '16/EECS 233/final/final/src
